@@ -68,3 +68,31 @@ header{
     background-color: rgb(0, 153, 255);
     color: white;
 }
+
+.endpage{
+    margin-top: 20px;
+    color: rgb(170, 170, 170);
+    font-weight: bold;
+}
+
+#last-image{
+    background-image: url("../img/monitor.jpg");
+    color: white;
+    width: 321px;
+    height: 208px;
+    margin-top: 10px;
+    font-size: 25px;
+    padding: 20px;
+    font-weight: bold;
+}
+
+#last-image2{
+    background-image: url("../img/graph.jpg");
+    color: white;
+    width: 321px;
+    height: 208px;
+    margin-top: 10px;
+    font-size: 25px;
+    padding: 20px;
+    font-weight: bold;
+}
