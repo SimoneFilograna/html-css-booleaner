@@ -59,12 +59,12 @@ header{
     margin-top: 40px;
 }
 
-.rawhead{
+.rowhead{
     background-color: rgb(0, 106, 255);
     color: white;
 }
 
-.rawbody{
+.rowbody{
     background-color: rgb(0, 153, 255);
     color: white;
 }
