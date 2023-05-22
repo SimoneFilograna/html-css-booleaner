@@ -1,7 +1,10 @@
 *{
     box-sizing: border-box;
     margin: 0;
-    padding: 0;
+}
+
+main{
+    margin-left: 10px;
 }
 
 header{
@@ -39,3 +42,29 @@ header{
     margin-top: 20px;
 }
 
+.para1{
+    margin-top: 20px;
+}
+
+.importante{
+    background-color: yellow;
+}
+
+.elenco{
+    margin-top: 40px;
+    margin-left: -10px;
+}
+
+.table{
+    margin-top: 40px;
+}
+
+.rawhead{
+    background-color: rgb(0, 106, 255);
+    color: white;
+}
+
+.rawbody{
+    background-color: rgb(0, 153, 255);
+    color: white;
+}
