@@ -1,9 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
 header{
-    background-color: rgba(0, 77, 243, 0.43);
+    background-color: rgba(4, 95, 253, 0.799);
     background-image: url("../img/pattern.png");
+    background-repeat: repeat;
+    background-position: top right;
 }
 
 #logo {
-    height: 70px;
+    height: 50px;
     margin-top: 80px;
 }
+
+#Title {
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+#identity {
+    color: rgb(0, 123, 255);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.uppertext {
+    color: rgb(125, 125, 125);
+}
+
+#date {
+    color: rgb(125, 125, 125);
+}
+
+.photo {
+    margin-top: 20px;
+}
+
